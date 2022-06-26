@@ -1,3 +1,3 @@
 20 | Software Developer | LordCaba#9747
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LordCaba&theme=highcontrast&show_icons=true&bg_color=08165D&title_color=00ACFF&icon_color=D52DCF&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=LordCaba&theme=highcontrast&show_icons=true&bg_color=151725&title_color=00ACFF&icon_color=D52DCF&count_private=true)
