@@ -10,4 +10,4 @@
 
 
 <a href="https://www.raffless.it" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.raffless.it-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.raffless.it" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Website-@Caba_999-blue?style=flat&logo=twitter"></a>
+<a href="https://twitter.com/Caba_999" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@Caba_999-blue?style=flat&logo=twitter"></a>
