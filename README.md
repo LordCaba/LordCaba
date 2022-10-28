@@ -1,6 +1,6 @@
 20 | Software Developer | LordCaba#9747
 
-### Hi there 👋 I'm [Caba](https://twitter.com/Caba_999)
+### Hi there 👋 I'm LordCaba
 > Software Engineer at [raffLESS](https://twitter.com/raffLESS_)
 
 [![Twitter: Caba 999](https://img.shields.io/twitter/follow/Caba_999?style=social)](https://twitter.com/Caba_999)
