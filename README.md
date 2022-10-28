@@ -1,5 +1,3 @@
-20 | Software Developer | LordCaba#9747
-
 ### Hi there 👋 I'm LordCaba
 > Software Engineer at [raffLESS](https://twitter.com/raffLESS_)
 
