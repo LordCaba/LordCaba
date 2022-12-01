@@ -7,5 +7,4 @@ A passionate python developer with reverse engineering skills from Italy!
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/564124593804017665)
 
 ![LordCaba's Github stats](https://github-readme-stats.vercel.app/api?username=LordCaba&theme=highcontrast&show_icons=true&bg_color=1C1B25&title_color=6A97EA&icon_color=BA72CF&text_color=42BD9D&count_private=true)
-
-a
+![LordCaba's Github stats](https://github-readme-stats.vercel.app/api?username=LordCaba&theme=highcontrast&show_icons=true&bg_color=1C1B25&title_color=6A97EA&icon_color=BA72CF&text_color=42BD9D&count_private=true)
