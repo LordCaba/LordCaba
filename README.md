@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm LordCaba
-> Owner & Developer @ [raffLESS](https://twitter.com/raffLESS_)
+> Owner & Developer @[raffLESS](https://twitter.com/raffLESS_)
 
 A passionate python developer with reverse engineering skills from Italy!
 
